@@ -1,5 +1,5 @@
 const scriptURLC = 'https://script.google.com/macros/s/AKfycbzaqY_3F8NGKrI0tRfn8VMtwvbjWwR6WP0K400AyI6DT9qz2l_P1Qmcb_BSncZEGK6b/exec'
-const formc = document.forms['adi-try1'];
+const formc = document.forms['html-gsheet-adi'];
 const alert_subc = document.getElementById('alert_submission');
 
 formc.addEventListener('submit', e => {
