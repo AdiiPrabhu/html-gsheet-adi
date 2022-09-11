@@ -1,5 +1,5 @@
-const scriptURLC = 'https://script.google.com/macros/s/AKfycbyJLqfJflq7T5cwlHdy7DxqF4-pvXGi1njQZEfPJcGaVuRMIm6Z/exec'
-const formc = document.forms['html-form-to-google-sheet'];
+const scriptURLC = 'https://script.google.com/macros/s/AKfycbzaqY_3F8NGKrI0tRfn8VMtwvbjWwR6WP0K400AyI6DT9qz2l_P1Qmcb_BSncZEGK6b/exec'
+const formc = document.forms['adi-try'];
 const alert_subc = document.getElementById('alert_submission');
 
 formc.addEventListener('submit', e => {
